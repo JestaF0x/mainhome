@@ -18,9 +18,6 @@
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
   }
-  body {
-	background-color: #DBF9FC;
-	}
   .btn:after {
 	content: '';
 	position: absolute;
