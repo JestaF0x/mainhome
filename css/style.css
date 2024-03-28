@@ -1,0 +1,19 @@
+html,div{
+	background-color: rgb(56, 56, 75);
+}
+
+h1{
+	text-align: center;
+	font-size: larger;
+	color: white;
+}
+.jesta {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border-radius: 80;
+}
+#center {    
+	text-align: center;  
+	}  
